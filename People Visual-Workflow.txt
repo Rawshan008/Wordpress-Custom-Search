@@ -1,0 +1,4 @@
+1. Creating Custom Post and custom texonomy
+2. Import data
+3. Creating search box with texonomy. by query and ajax 
+4. Show product by texonomy and name field
